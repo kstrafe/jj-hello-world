@@ -7,4 +7,9 @@ int main(int argc, char *argv[]) {
     x += 1;
     std::cout << "Argument count: " << argc << std::endl;
     std::cout << "Here's a number: " << x << std::endl;
+
+    std::cout << "New print" << std::endl;
+    std::cout << "Add another print" << std::endl;
+
+    std::cout << "New print (rebased)" << std::endl;
 }
