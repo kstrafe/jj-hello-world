@@ -17,4 +17,5 @@ int main(int argc, char *argv[]) {
     std::cout << "Add another print" << std::endl;
 
     std::cout << "New print (rebased)" << std::endl;
+    std::cout << "Another print" << std::endl;
 }
