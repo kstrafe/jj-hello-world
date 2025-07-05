@@ -1,3 +1,4 @@
+#include <cstdio>
 #include <iostream>
 
 /// The main entry point of the codebase.
