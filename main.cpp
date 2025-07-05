@@ -3,6 +3,7 @@
 #include <optional>
 #include <bit>
 #include <iostream>
+#include <chrono>
 
 /// The main entry point of the codebase.
 int main(int argc, char *argv[]) {
