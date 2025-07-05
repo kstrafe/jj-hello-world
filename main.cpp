@@ -1,5 +1,6 @@
 #include <cstdio>
 #include <cmath>
+#include <optional>
 #include <iostream>
 
 /// The main entry point of the codebase.
