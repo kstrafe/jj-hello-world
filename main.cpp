@@ -20,3 +20,7 @@ int main(int argc, char *argv[]) {
     std::cout << "Another print" << std::endl;
     std::cout << "Yet another print" << std::endl;
 }
+
+void function_from_old_commit() {
+    std::cout << "Does nothing fancy" << std::endl;
+}
